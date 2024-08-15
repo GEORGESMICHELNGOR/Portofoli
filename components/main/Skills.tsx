@@ -84,7 +84,7 @@ import {
               loop
               muted
               autoPlay
-              src="/cards-video.webm"
+              src="/Anime.mp4"
             />
           </div>
         </div>

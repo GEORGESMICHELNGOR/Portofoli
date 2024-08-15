@@ -19,7 +19,7 @@ const Encryption = () => {
             {" "}
             &{" "}
           </span>
-          Security
+          Sécurité
         </motion.div>
       </div>
 
@@ -59,7 +59,7 @@ const Encryption = () => {
           playsInline
           preload="false"
           className="w-full h-auto"
-          src="/encryption.webm/"
+          src="/Anime.mp4"
         />
       </div>
     </div>

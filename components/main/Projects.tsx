@@ -13,18 +13,18 @@ const Projects = () => {
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
           src="/nexte.jpeg"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Portofolio Moderne"
+          description="Découvrez mon portfolio, un espace conçu pour présenter mes projets de manière élégante et interactive. Utilisant les dernières technologies, mon site reflète mon expertise en développement web, mobile, et logiciel."
         />
         <ProjectCard
           src="/gym.jpeg"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Gym et Fitness"
+          description="Transformez votre expérience de fitness avec mon application moderne et intuitive. Conçue pour les passionnés de fitness, elle vous offre un accès complet à des programmes d'entraînement personnalisés, des suivis de progression détaillés et des conseils d'experts."
         />
         <ProjectCard
           src="/hotel.jpeg"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Application Hôtelière"
+          description="Simplifiez vos réservations d'hôtels avec notre application moderne et pratique. Conçue pour offrir une expérience utilisateur fluide et intuitive, elle vous permet de rechercher, comparer et réserver des chambres dans des établissements partout dans le monde. "
         />
       </div>
     </div>
